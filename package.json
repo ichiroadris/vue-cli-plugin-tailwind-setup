@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-tailwind-setup",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "A vue cli plugin to add tailwindcss, postgrescss and purgecss to project",
   "main": "index.js",
   "scripts": {
