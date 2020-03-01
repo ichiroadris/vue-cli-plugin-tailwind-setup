@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-tailwind-setup",
+  "version": "1.0.0",
+  "description": "A vue cli plugin to add tailwindcss, postgrescss and purgecss to project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichiroadris/vue-cli-plugin-tailwind-setup.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "tailwindcss",
+    "purgecss"
+  ],
+  "author": "ichiroadris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichiroadris/vue-cli-plugin-tailwind-setup/issues"
+  },
+  "homepage": "https://github.com/ichiroadris/vue-cli-plugin-tailwind-setup#readme"
+}
